@@ -1,7 +1,1 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: daiane
- * Date: 27/08/2021
- * Time: 10:11
- */
+<h1 style="margin: 20% 0%">&#9888; Página não encontrada!</h1>
