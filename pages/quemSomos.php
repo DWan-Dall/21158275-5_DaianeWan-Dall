@@ -11,7 +11,7 @@
             Trabalhamos com as mais conceituadas marcas importadas e nacionais de 1ª linha.
             Oferecemos produtos de alta performance...</p>
 
-        <img src="pages/bolo.jpg" class="img-thumbnail shadow">
+        <img src="images/bolo.jpg" class="img-thumbnail shadow">
 
         <p class="lead fst-italic">Além disso, nossa loja física está sempre a disposição para melhor atender nosso cliente!.</p>
     </div>
